@@ -24,13 +24,26 @@ As a platform engineer I design, automate, and run production **OpenShift Contai
 
 ## 🎓 Certifications
 
-- **Red Hat Certified Architect (RHCA)**
-- Red Hat Specialist — **EX316**, **EX380**, **EX267**
-- **AWS** Solutions Architect – Associate
+**🏆 Red Hat Certified Architect (RHCA)** — Red Hat's highest-level certification
+
+**Red Hat Certified Specialist**
+- OpenShift Automation and Integration
+- OpenShift AI
+- OpenShift Virtualization
+- Developing Automation with Ansible Automation Platform
+
+**Red Hat Certified**
+- OpenShift Administrator
+- Engineer (RHCE)
+- System Administrator (RHCSA)
+
+**Amazon Web Services**
+- Solutions Architect – Associate
 
 ## 📫 Connect
 
 - 📍 Chennai, Tamil Nadu, India
+- 💼 [LinkedIn](https://www.linkedin.com/in/balasubramanian-s-77bba9138/)
 
 ---
 
