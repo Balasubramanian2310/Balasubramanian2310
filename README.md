@@ -10,13 +10,13 @@ I build and operate enterprise-grade container platforms — turning production 
 
 ## 🚀 What I do
 
-As a platform engineer I design, automate, and run production **OpenShift Container Platform** (4.16–4.18) on bare-metal UPI — platform architecture, GitOps delivery, virtualization, and full-stack observability — building the golden paths that let teams deploy safely at scale.
+As a platform engineer I design, automate, and run production **OpenShift Container Platform** on bare-metal UPI/IPI — platform architecture, GitOps delivery, virtualization, and full-stack observability — building the golden paths that let teams deploy safely at scale.
 
 ## 🧰 Platform toolbox
 
 | Area | Tools |
 | --- | --- |
-| **Platform & Orchestration** | OpenShift 4.16–4.18, Kubernetes, OpenShift Virtualization (MTV / Forklift) |
+| **Platform & Orchestration** | OpenShift, Kubernetes, OpenShift Virtualization (MTV / Forklift) | Redhat Enterprise Linux
 | **Automation & GitOps** | Ansible Automation Platform, Argo CD, Jenkins |
 | **Storage & Infrastructure** | ODF / Ceph, KVM, HAProxy, bare-metal UPI |
 | **Observability** | Prometheus, Loki, Grafana |
